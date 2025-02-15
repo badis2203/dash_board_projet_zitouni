@@ -1,5 +1,8 @@
 # HPV Vaccination: A Global Public Health Challenge
 
+## Access to dashboard
+The dashboard is available via the following link : (https://dashboard-hpv-b2v5.onrender.com/)
+
 ## Authors
 Badis Bensalem, Hilarion Nabe, Noa Sans, Perrine Warter, Inès Yous<br />
 *Université de Lille, Département d’Ingénierie et Management de la Santé*
